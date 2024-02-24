@@ -1,6 +1,9 @@
+#  Multi-Processing Cairo0 for a Verifiable GPU
 <img width="1150" alt="Screenshot 2024-02-24 at 11 06 15 AM" src="https://github.com/STARKScale/zkhadoop-cairo0/assets/47396265/43d1cc0d-06c8-40ad-bad7-d215a3f9e4f0">
 
-# STARKScale ~ Let us be your GPU for Verifiable zkML Inferences 🚀
+---
+
+This repository implements the logic of building the distributed system for sharding Cairo0 execution and recursive proving system for a comrpessed monolithic proof of this execution.
 
 ## Problem Statement
 
